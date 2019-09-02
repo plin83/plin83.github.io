@@ -1,0 +1,62 @@
+I")<blockquote>
+  <p>linp@mit.edu。</p>
+</blockquote>
+
+<p>Hi，我是林芃，欢迎来到我的网站。目前我在<a href="http://www.mit.edu/">麻省理工学院</a>做博士后研究。我博士毕业于麻省大学阿莫斯特分校。目前我的研究方向为<a href="https://en.wikipedia.org/wiki/Neuromorphic_engineering">类脑计算</a>。这是一种全新的计算架构，通过使用新型的<a href="https://en.wikipedia.org/wiki/Memristor">忆阻器器件</a>来代替传统CMOS电路，通过高度的并行矩阵运算和直接模拟神经网络，实现速度，功耗和性能上突破。希望我们的研究能够突破AI性能的瓶颈。</p>
+
+<h5 id="研究领域">研究领域</h5>
+
+<blockquote>
+  <p><strong>微纳制造</strong> nanofabrication <br />
+<strong>电子器件</strong> nanoelectronic devices <br />
+<strong>集成电路设计</strong> integrated circuit design <br />
+<strong>机器学习</strong>  machine learning <br />
+<strong>边缘计算</strong>  edge system &amp; computing <br /></p>
+</blockquote>
+
+<h5 id="特邀报告">特邀报告</h5>
+
+<ul>
+  <li>“Neuromorphic Computing with Resistive Switching Devices (ReRAM)”, <a href="http://nyssaps.org">The Physics of AI, New York State Section of the American Physical Society and the 120th Topical Symposium</a>, IBM T.J. Watson Research Center, April. 26th, 2019</li>
+  <li>“Neuromorphic computing based on memristive arrays”, Sept. 21st, 2018, University of Virginia, Charlottesville, VA.</li>
+  <li>“Three-Dimensional Memristor Integrated Circuits and Applications”, Sept. 15th, 2017, Massachusetts Institute of Technology (MIT), Cambridge, MA.</li>
+  <li>“3D Memristor Circuit for Neuromorphic Computing”, Jun. 1st, 2017, <a href="http://www.eipbn.org">EIPBN’ 17</a>, Orlando, FL.</li>
+</ul>
+
+<h5 id="发表文献">发表文献</h5>
+
+<ol reversed="reversed">
+  <li>Z. Wang*, C. Li*, <strong>P. Lin*</strong>, M. Rao, Y. Nie, W. Song, Q. Qiu, Y. Li, P. Yan, J.P. Strachan, N. Ge, N. McDonald, Q. Wu, M. Hu, H. Wu, R.S. Williams, Qiangfei Xia and J.J. Yang. “In situ training of feed-forward and recurrent convolutional memristor networks”, <em>Nature Machine Intelligence</em>, <em>in press</em> (2019).</li>
+  <li>R. Midya, Z. Wang, S. Asapu, S. Joshi, Y. Li, Y. Zhuo, W. Song, H. Jiang, N. Upadhay, M. Rao, <strong>P. Lin</strong>, C. Li, Q. Xia, J. J. Yang, “Artificial Neural Network (ANN) to Spiking Neural Network (SNN) Converters Based on Diffusive Memristors”, <em>Advanced Electronic Materials</em> 1900060 (2019)</li>
+  <li>S. H. Bae, H. Kum, W. Kong, Y. Kim, C. Choi, B. Lee, <strong>P. Lin</strong>, Y. Park, J. Kim, “Integration of bulk materials with two-dimensional materials for physical coupling and applications”, <em>Nature Materials</em> <strong>18</strong>, 550-560 (2019)</li>
+  <li>C. Li, Z. Wang, M. Rao, D. Belkin, W. Song, H. Jiang, P. Yan, Y. Li, <strong>P. Lin</strong>, M. Hu, N. Ge, J. P. Strachan, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang, Q. Xia, “Long short-term memory networks in memristor crossbar arrays”, *Nature Machine Intelligence** <strong>1</strong>, 49-57 (2019)</li>
+  <li>Z. Wang, C. Li, W. Song, M. Rao, D. Belkin, Y. Li, P. Yan, H. Jiang, <strong>P. Lin</strong>, M. Hu, J. P. Strachan, N. Ge, M. Barnell, Q. Wu, A. G. Barto, Q. Qiu, R. S. Williams, Q. Xia &amp; J. J. Yang, “Reinforcement learning with analogue memristor arrays”, <em>Nature Electronics</em>, <strong>2</strong>, 115-124 (2019)</li>
+  <li>H. Jiang, C. Li, <strong>P. Lin</strong>, S. Pi, J. J. Yang, Q. Xia, “Scalable 3D Ta:SiOx Memristive Devices”, <em>Advanced Electronic Materials</em>, 1800958 (2019)</li>
+  <li>S. Tan, <strong>P.Lin</strong> et al, “Perspective on Uniform Switching of Artificial Synapses for Large-scale Neuromorphic Arrays”, <em>APL Materials</em> <strong>6</strong>, 120901 (2018)</li>
+  <li><strong>P.Lin</strong> and Q. Xia, “Tutorial: Fabrication and three-dimensional integration of nanoscale memristive devices and arrays”, <em>Journal of Applied Physics</em> <strong>124</strong> (2018)</li>
+  <li>H. Jiang, C. Li, R. Zhang, P. Yan, <strong>P.Lin</strong>, Y. Li, J. J. Yang, D. Holcomb and Q. Xia, “A provable key destruction scheme based on memristive crossbar arrays”, <em>Nature Electronics</em> <strong>1</strong>, 548-554 (2018)</li>
+  <li>Z. Wang, M. Rao, J.-W. Han, J. Zhang, <strong>P.Lin</strong>, Y. Li, C. Li, W. Song, S. Asapu, R. Midya, Y. Zhuo, H. Jiang, J. H. Yoon, N. K. Upadhyay, S. Joshi, M. Hu, J. P. Strachan, M. Barnell, Q. Wu, H. Wu, Q. Qiu, R. S. Williams, Q. Xia and J. J. Yang, “Capacitive neural network with neuro-transistors, <em>Nature Communications</em> <strong>9</strong>, 3208 (2018)</li>
+  <li>C. Li, D. Belkin, Y. Li, P. Yan, M. Hu, N. Ge, H. Jiang, E. Montgomery, <strong>P.Lin</strong>, Z. Wang, W. Song, J. P. Strachan, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang and Q. Xia, “Efficient and self-adaptive in-situ learning in multilayer memristor neural networks”, <em>Nature Communications</em> <strong>9</strong>, 2385 (2018)</li>
+  <li>C. Li, Y. Li, H. Jiang, W. Song, <strong>P.Lin</strong>, Z. Wang, J. J. Yang and Q. Xia, “Large Memristor Crossbars for Analog Computing”, <em>Circuits and Systems (ISCAS), 2018 IEEE International Symposium on</em> (2018)</li>
+  <li>Z. Wang, R. Midya, S. Joshi, H. Jiang, C. Li, <strong>P.Lin</strong>, W. Song, M. Rao, Y. Li, M. Barnell, Q. Wu, Q. Xia and J. J. Yang, “Unconventional computing with diffusive memristor”, <em>Circuits and Systems (ISCAS), 2018 IEEE International Symposium on</em> (2018)</li>
+  <li>C. Li, D. Belkin, Y. Li, M. Hu, N. Ge, H. Jiang, E. Montgomery, <strong>P.Lin</strong>, Z. Wang, J. P. Strachan, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang and Q. Xia, “In-Memory Computing with Memristor Arrays”, <em>2018 IEEE International Memory Workshop</em> (2018)</li>
+  <li>Z. Wang, S. Joshi, S. Savel’ev, W. Song, R. Midya, Y. Li, M. Rao, P. Yan, S. Asapu, Y. Zhuo, H. Jiang, <strong>P.Lin</strong>, C. Li, J. H. Yoon, N. K. Upadhyay, J. Zhang, M. Hu, J. P. Strachan, M. Barnell, Q. Wu, H. Wu, R. S. Williams, Q. Xia and J. J. Yang, “Fully memristive neural networks for pattern classification with unsupervised learning”,  <em>Nature Electronics</em> <strong>1</strong>, 137 (2018)</li>
+  <li>R. Zhang, H. Jiang, Z. Wang, <strong>P.Lin</strong>, Y. Zhuo, D. Holcomb, D. Zhang, J.J. Yang and Q. Xia. “Nanoscale diffusive memristor crossbars as physical unclonable functions”, <em>Nanoscale</em> <strong>10</strong>, 2721-2726 (2018)</li>
+  <li>C. Li, M. Hu, Y. Li, H. Jiang, N. Ge, E. Montgomery, J. Zhang, W. Song, N. Dávila, C. E. Graves, Z. Li, J. P. Strachan, <strong>P.Lin</strong>, Z. Wang, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang, Q. Xia, “Analogue signal and image processing with large memristor crossbars”, <em>Nature Electronics</em> <strong>1</strong>, 52 (2018)</li>
+  <li>Z. Wang, M. Rao, R. Midya, S. Joshi, H. Jiang, <strong>P.Lin</strong>, W. Song, S. Asapu, Y. Zhuo, C. Li, H. Wu, Q. Xia, J. J. Yang, “Threshold Switching of Ag or Cu in Dielectrics: Materials, Mechanism, and Applications”, <em>Advanced Functional Materials</em> <strong>28</strong>, 1704862 (2018)</li>
+  <li>C. Li, L. Han, H. Jiang, M.-H. Jang, <strong>P.Lin</strong>, Q. Wu, M. Barnell, J. J. Yang, H. L. Xin and Q. Xia, “Three-dimensional crossbar arrays of self-rectifying Si/SiO2/Si memristors”, <em>Nature Communications</em> <strong>8</strong>, 15666 (2017)</li>
+  <li>R. Midya, Z. Wang, J. Zhang, S. E. Savel’ev, C. Li, M. Rao, M. H. Jang, S. Joshi, H. Jiang, <strong>P. Lin</strong>, K. Norris, N. Ge, Q. Wu, M. Barnell, Z. Li, H. Xin, R. S. Williams, Q. Xia and J. J. Yang, “Anatomy of Ag/Hafnia-based selectors with 1010 nonlinearity”, <em>Advanced Materials</em> <strong>29</strong>, 12 (2017)</li>
+  <li>Z. Wang, S. Joshi, S. Savel’ev, H. Jiang, R. Midya, <strong>P.Lin</strong>, M. Hu, N. Ge, J. P. Strachan, Z. Li, Q. Wu, M. Barnell, H. Xin, R. S. Williams, Q. Xia and J. J. Yang, “Memristors with diffusive relaxation dynamics for neuromorphic computing”, <em>Nature Materials</em> <strong>16</strong>, 101-108 (2017)
+10] S. Pi, <strong>P.Lin</strong> and Q. Xia, “Fabrication of sub-10 nm metal nanowire arrays with sub-1 nm critical dimension control”, <em>Nanotechnology</em> <strong>27</strong>, 46 (2016)</li>
+  <li>H. Jiang, L. Han, <strong>P.Lin</strong>, Z. Wang, M. H. Jang, Q. Wu, M. Barnell, J. J. Yang, H. Xin and Q. Xia, “Sub-10 nm Ta channel responsible for superior performance of a HfO2 memristor”, <em>Scientific reports</em> <strong>6</strong>, 28525 (2016)</li>
+  <li>Z. Wang, H. Jiang, <strong>P.Lin</strong>, A. Ribbe, Q. Wu, Q. Xia and J. J. Yang, “Electrochemical metallization switching with a platinum group metal in different oxides”, <em>Nanoscale</em> <strong>8</strong>, 14023-14030 (2016)</li>
+  <li>Q. Xia, W. Wu, G.-Y. Jung, S. Pi, <strong>P.Lin</strong>, Y. Chen, X. Li, Z. Li, S.-Y. Wang and R. S. Williams, “Nanoimprint lithography enables memristor crossbars and hybrid circuits”, *Appl. Phys. A**, 1-13 (2015)</li>
+  <li><strong>P.Lin</strong>, S. Pi and Q. Xia, “3D integration of planar crossbar memristive devices with CMOS substrate”, <em>Nanotechnology</em> <strong>25</strong>, 405202 (2014)</li>
+  <li>S. Pi., <strong>P.Lin</strong>, H. Jiang, C. Li, &amp; Q. Xia, “Device engineering and CMOS integration of nanoscale memristors”, <em>Circuits and Systems (ISCAS), 2014 IEEE International Symposium on</em>, 425-427 (2014)</li>
+  <li>J. Mu, <strong>P.Lin</strong> and Q. Xia, “Concentric rings of polystyrene and titanium dioxide nanoparticles patterned by alternating current signal guided coffee ring effect”, <em>Appl. Phys. Lett.</em> <strong>104</strong>, 261601 (2014)</li>
+  <li><strong>P.Lin</strong>, S. Pi, H. Jiang and Q. Xia, “Mold cleaning with polydimethylsiloxane for nanoimprint lithography”, <em>Nanotechnology</em> <strong>24</strong>, 325301 (2013)</li>
+  <li>S. Pi, <strong>P.Lin</strong> and Q. Xia, “Cross point arrays of 8 nm × 8 nm memristive devices fabricated with nanoimprint lithography”, <em>J. Vac. Sci. Technol. B</em> <strong>31</strong>, 06FA02 (2013)</li>
+  <li>S. Pi, <strong>P. Lin</strong> and Q. Xia, “Memristor crossbar arrays with junction areas towards sub-10 × 10 nm2”, <em>Cellular Nanoscale Networks and Their Applications (CNNA), 2012 13th International Workshop on</em> (2012)</li>
+</ol>
+
+:ET
