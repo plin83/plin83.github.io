@@ -1,13 +1,13 @@
 > Welcome to my personal web hub. 
 
-I am Peng Lin (bryan). I am from Nanjing, China. Currently I am a Postdoc Associate at [Massachusetts Institiute of Technology (MIT)](http://www.mit.edu). I received my PhD from [University of Massachusetts Amherst (UMass Amherst)](www.umass.edu) in Electrical Engingineering. My research focuses on [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering). This is an exciting new research area that uses emerging nanoelectronic devices such as [Memristor](https://en.wikipedia.org/wiki/Memristor) to form highly parallel matrix multiplication networks and operate neural networks on site, similarly like what happens in a brain. We hope the new system can provide the breakthroughs in speed and energy efficiency and overcome the hardware bottleneck of current artificial intelligence systems.
+My name is Peng Lin (bryan). I am from Nanjing, China. Currently I am a Postdoc Associate at [Massachusetts Institiute of Technology (MIT)](http://www.mit.edu). I received my PhD from [University of Massachusetts Amherst (UMass Amherst)](www.umass.edu) in Electrical Engingineering. My research focuses on [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering). This is an exciting research area that uses emerging nanoelectronic devices such as [Memristor](https://en.wikipedia.org/wiki/Memristor) to form highly parallel matrix multiplication networks and operate neural networks in hardware, similarly like what happens in a brain. We hope the new system can provide the breakthroughs in speed and energy efficiency and overcome the hardware bottleneck of current artificial intelligence systems.
 
 ##### Area of Expertise
-> __nanofabrication__ <br>
 > __nanoelectronic devices__ <br>
-> __integrated circuit design__ <br>
+> __nanofabrication__ <br>
+> __heterogenous integrated circuits <br>
 > __machine learning__ <br>
-> __edge system & computing__
+> __edge computing__
 
 ##### Invited Talks
 
