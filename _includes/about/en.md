@@ -4,10 +4,10 @@ My name is Peng Lin (bryan). I am from Nanjing, China. Currently I am a Postdoc 
 
 ##### Area of Expertise
 > __nanoelectronic devices__ <br>
-> __nanofabrication__ <br>
-> __heterogenous integrated circuits <br>
+> __micro/nanofabrication__ <br>
+> __heterogenous integrated circuits__ <br>
 > __machine learning__ <br>
-> __edge computing__
+> __edge computing__ <br>
 
 ##### Invited Talks
 
