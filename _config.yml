@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Changing the world?<br>Lead the way"
+sidebar-about-description: "Changing the world?<br>Yeah, why not?"
 sidebar-avatar: /img/bryan-home.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
