@@ -1,5 +1,5 @@
 {: reversed="reversed"}
-
+33. H. Yeun\*, __P. Lin\*__, C. Choi\*, S. Tan, Y. Park, D. Lee, S. Kim and J. Kim  ["Alloying conducting channels for reliable analog computing"](http://plin83.github.io), *under review*.
 32. __P. Lin__, C. Li, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. Upadhyay, M. Barnell, Q. Wu, Q. Xia and J.J. Yang. ["Three-Dimensional Memristor Circuits as Complex Neural Networks"](http://plin83.github.io), *under review*.
 31. Z. Wang\*, C. Li\*, __P. Lin\*__, M. Rao, Y. Nie, W. Song, Q. Qiu, Y. Li, P. Yan, J.P. Strachan, N. Ge, N. McDonald, Q. Wu, M. Hu, H. Wu, R.S. Williams, Q. Xia and J.J. Yang. ["In situ training of feed-forward and recurrent convolutional memristor networks"](https://www.nature.com/articles/s42256-019-0089-1), *Nature Machine Intelligence*, __1__, 434-442 (2019).
 30. R. Midya, Z. Wang, S. Asapu, S. Joshi, Y. Li, Y. Zhuo, W. Song, H. Jiang, N. Upadhay, M. Rao, __P. Lin__, C. Li, Q. Xia, J. J. Yang, [“Artificial Neural Network (ANN) to Spiking Neural Network (SNN) Converters Based on Diffusive Memristors”](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201900060), *Advanced Electronic Materials* 1900060 (2019)
