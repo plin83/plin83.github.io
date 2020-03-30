@@ -1,5 +1,5 @@
 {: reversed="reversed"}
-35. H. Yeun\*, __P. Lin\*__, C. Choi\*, S. Tan, Y. Park, D. Lee, S. Kim and J. Kim  ["Alloying conducting channels for reliable analog computing"](http://plin83.github.io), *under review*.
+35. H. Yeun\*, __P. Lin\*__, C. Choi\*, S. Tan, Y. Park, D. Lee, S. Kim and J. Kim  ["Alloying conducting channels for reliable analog computing"](http://plin83.github.io), *Nature Nanotechnology in press*.
 34. __P. Lin__, C. Li, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. Upadhyay, M. Barnell, Q. Wu, Q. Xia and J.J. Yang. ["Three-Dimensional Memristor Circuits as Complex Neural Networks"](http://plin83.github.io), *Nature Electronics in press* .
 33. J. H. Yoon, J. Zhang, P. Lin, N. Upadhyay, P. Yan, Y. Liu, Q. Xia and J. J. Yang, ["A Low-current and analog memristor with Ru as mobile species"](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904599), *Advanced Materials*, 1904599 (2020)
 32. M. Rao, Z. Wang, C. Li, H. Jiang, R. Midya, __P. Lin__, D. Belkin, W. Song, S. Asapu, Q. Xia and J. J. Yang, ["Learning with resistive switching neural networks"](https://ieeexplore.ieee.org/abstract/document/8993465), *IEDM*, 35.4 (2019)  
