@@ -19,5 +19,3 @@ catalog: true
 
 {% include about/conf.md %}
 
-
-
