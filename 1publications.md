@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "Publications"
-description: "Stand on the Shoulders of Giants"
+description: "Standing on the Shoulders of Giants"
 header-img: "img/about-bg.jpg"
 catalog: true
 ---
