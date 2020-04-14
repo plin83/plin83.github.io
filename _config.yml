@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: linp@mit.edu
 description: ""
 keyword: "Neuromorphic"
-url: "http://bplin.me/about"              # your host, for absolute URL
+url: "http://bplin.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
