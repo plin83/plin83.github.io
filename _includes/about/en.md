@@ -1,3 +1,9 @@
+---
+permalink: /
+redirect_from:
+  - /about
+---
+
 > bryanpenglin@gmail.com
 > linp@mit.edu
 
