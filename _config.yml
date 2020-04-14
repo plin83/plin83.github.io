@@ -103,13 +103,13 @@ page-mathjax: false
 # Friends
 friends: [
     {
-         title: "UMass Prof. Qiangfei Xia Group",
+         title: "Prof. Qiangfei Xia's lab",
          href: "http://nano.ecs.umass.edu/"
     },{
-         title: "MIT Prof. Jeehwan Kim Group",
+         title: "Prof. Jeehwan Kim's lab",
          href: "http://jeehwanlab.mit.edu/"
     },{
-         title: "UMass Prof. J. Joshua Yang Group",
+         title: "Prof. J. Joshua Yang's lab",
          href: "http://www.ecs.umass.edu/ece/jjyang/"
     }
 
