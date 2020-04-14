@@ -12,14 +12,14 @@ header-img: "img/art-bg.jpg"
 Table of contents image for [*Nature Materials*](https://www.nature.com/articles/s41563-017-0001-5), 2018  
 
 ![Nature Materials Cover 2018](img/natmat-2dcover-2018.png)  
-*producing 2D materials on pipelines*  
+*assemble 2D-3D heterostructures on pipelines*  
 Cover image for [*Nature Materials*](https://www.nature.com/nmat/volumes/18/issues/6), 2018  
 
 ![MIT News Image 2019](img/MIT-news-split.jpg)  
-*optical image of a silicon sample with arrays of 2D devices*  
+*optical image of a silicon sample with arrays of 2D material based devices*  
 News image for [*MIT news*](http://news.mit.edu/2018/researchers-quickly-harvest-single-atom-materials-1011), 2019  
 
 X  
-*false color scanning electron microscope image of a 3D array*  
+*false colored SEM image of a 3D memristor array*  
 Cover image for [*Nature Electronics*], *in press*  
 
