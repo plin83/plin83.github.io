@@ -3,8 +3,9 @@ layout: pub
 title: "Publications"
 header-img: "img/about-bg.jpg"
 ---
+> last update: 2020-04-14
 
-##### Journals
+##### Peer-Reviewed Journals
 
 {% include about/pub.md %}
 
