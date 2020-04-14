@@ -9,17 +9,3 @@ Hi，我是林芃，欢迎来到我的网站。目前我在[麻省理工学院](
 > __微纳制造__ micro/nanofabrication <br>
 > __异构集成电路设计__ heterogenously integrated circuits <br>
 > __神经神态计算__  neuromorphic computing <br>
-
-##### 特邀报告
-
-- “Neuromorphic Computing with Resistive Switching Devices (ReRAM)”, [The Physics of AI, New York State Section of the American Physical Society and the 120th Topical Symposium][2], IBM T.J. Watson Research Center, April. 26th, 2019
-- "Neuromorphic computing based on memristive arrays”, Sept. 21st, 2018, University of Virginia, Charlottesville, VA.
-- "Three-Dimensional Memristor Integrated Circuits and Applications”, Sept. 15th, 2017, Massachusetts Institute of Technology (MIT), Cambridge, MA.
-- “3D Memristor Circuit for Neuromorphic Computing”, Jun. 1st, 2017, [EIPBN’ 17][1], Orlando, FL.
-
-##### 发表文献
-
-{% include about/pub.md %}
-
-[1]: http://www.eipbn.org
-[2]: http://nyssaps.org
