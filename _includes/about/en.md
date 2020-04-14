@@ -1,13 +1,13 @@
-> Welcome to my personal web hub. 
+> bryanpenglin@gmail.com
+> linp@mit.edu
 
-My name is Peng Lin (bryan). I am from Nanjing, China. Currently I am a Postdoc Associate at [Massachusetts Institiute of Technology (MIT)](http://www.mit.edu). I received my PhD from [University of Massachusetts Amherst (UMass Amherst)](www.umass.edu) in Electrical Engingineering. My research focuses on [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering). This is an exciting research area that uses emerging nanoelectronic devices such as [Memristor](https://en.wikipedia.org/wiki/Memristor) to form highly parallel matrix multiplication networks and operate neural networks in hardware, similarly like what happens in a brain. We hope the new system can provide the breakthroughs in speed and energy efficiency and overcome the hardware bottleneck of current artificial intelligence systems.
+My name is Peng Lin (bryan). Welcome to my personal website. I am currently a Postdoc Associate at [Massachusetts Institiute of Technology (MIT)](http://www.mit.edu). I received my PhD in 2017 from [University of Massachusetts Amherst in United States](www.umass.edu) and holds a Bachelor degree from [Southeast University in China](http://www.seu.edu.cn/english/main.htm) (Honors Class). My research focuses on [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering). In particular, we try to use emerging nanoelectronic devices such as [Memristor](https://en.wikipedia.org/wiki/Memristor) to form a highly parallel matrix multiplication networks and implement neural networks directly in hardware, thus breaking the hardware bottleneck in artificial intelligence. I've published more than 30 peer-reviewed journal papers, 8 conference presentations and 2 US patents (one granted).
 
 ##### Area of Expertise
 > __nanoelectronic devices__ <br>
 > __micro/nanofabrication__ <br>
-> __heterogenous integrated circuits__ <br>
-> __machine learning__ <br>
-> __edge computing__ <br>
+> __heterogenously integrated systems__ <br>
+> __neuromorphic and analog computing__ <br>
 
 ##### Invited Talks
 

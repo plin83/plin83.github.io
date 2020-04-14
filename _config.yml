@@ -1,9 +1,9 @@
 # Site settings
 title: Peng Lin
-SEOTitle: Bryan P. Lin
+SEOTitle: Peng Lin
 header-img: img/home-bg.jpg
 email: linp@mit.edu
-description: "新的开始。"
+description: ""
 keyword: "Neuromorphic"
 url: "http://bplin.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -79,7 +79,7 @@ ga_domain: bplin.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "forward"
-sidebar-avatar: /img/bryan-home.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/bryan-home.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,10 +103,14 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Google Scholar",
-        href: "http://scholar.google.com/"
+         title: "UMass Prof. Qiangfei Xia Group",
+         href: "http://nano.ecs.umass.edu/"
     },{
-         title: "Wikipedia",
-         href: "http://www.wikipedia.com/"
+         title: "MIT Prof. Jeehwan Kim Group",
+         href: "http://jeehwanlab.mit.edu/"
+    },{
+         title: "UMass Prof. J. Joshua Yang Group",
+         href: "http://www.ecs.umass.edu/ece/jjyang/"
     }
+
 ]
