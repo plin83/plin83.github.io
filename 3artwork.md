@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pub
 title: "Gallery"
 description: "Science as Art"
 header-img: "img/art-bg.jpg"
