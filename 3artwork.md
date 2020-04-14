@@ -13,7 +13,7 @@ Table of contents image for [*Nature Materials*](https://www.nature.com/articles
 
 ![Nature Materials Cover 2018](img/natmat-2dcover-2018.png)  
 *producing 2D materials on pipelines*  
-Cover image for [*Nature Materials*](https://www.nature.com/articles/s41563-019-0335-2), 2018  
+Cover image for [*Nature Materials*](https://www.nature.com/nmat/volumes/18/issues/6), 2018  
 
 ![MIT News Image 2019](img/MIT-news-split.jpg)  
 *optical image of a silicon sample with arrays of 2D devices*  
