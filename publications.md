@@ -8,9 +8,7 @@ catalog: true
 
 ##### Publications
 
-<div class="en post-container">
-    {% include about/pub.md %}
-</div>
+{% include about/pub.md %}
 
 ##### Invited Talks
 
