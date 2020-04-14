@@ -3,8 +3,8 @@ layout: page
 title: "Publications"
 description: ""
 header-img: "img/about-bg.jpg"
-catalog: true
 sidebar: false
+catalog: true
 ---
 
 ##### Publications
