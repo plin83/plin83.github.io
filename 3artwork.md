@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gallery"
-description: Science as Art
+description: "Science as Art"
 header-img: "img/art-bg.jpg"
 ---
 
