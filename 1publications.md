@@ -8,7 +8,7 @@ catalog: true
 
 > last update: 2020-04-14
 
-#### Peer-Reviewed Journals
+#### Journals
 
 {% include about/pub.md %}
 
@@ -16,7 +16,7 @@ catalog: true
 
 {% include about/invited.md %}
 
-#### Peer-Reviewed Conferences
+#### Conferences
 
 {% include about/conf.md %}
 
