@@ -16,7 +16,7 @@ catalog: true
 
 {% include about/invited.md %}
 
-#### Conference Presentations
+#### Peer-Reviewed Conferences
 
 {% include about/conf.md %}
 
