@@ -1,5 +1,5 @@
 {: reversed="reversed"}
-37. Q. Xia, ..., __P. Lin__ *et al*, ["Roadmap on emerging hardware and technology for machine learning"](https://iopscience.iop.org/article/10.1088/1361-6528/aba70f/meta), *Nanotechnology* __32__, 012002 (2020).
+37. K. Bergren, ..., __P. Lin__ *et al*, ["Roadmap on emerging hardware and technology for machine learning"](https://iopscience.iop.org/article/10.1088/1361-6528/aba70f/meta), *Nanotechnology* __32__, 012002 (2020).
 36. H. Yeun†, __P. Lin†__, C. Choi†, S. Tan, Y. Park, D. Lee, S. Kim and J. Kim, ["Alloying conducting channels for reliable analog computing"](https://www.nature.com/articles/s41565-020-0694-5), *Nature Nanotechnology* __15__, 574-579 (2020).
 35. __P. Lin__, C. Li, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. Upadhyay, M. Barnell, Q. Wu, Q. Xia and J.J. Yang, ["Three-Dimensional Memristor Circuits as Complex Neural Networks"](https://www.nature.com/articles/s41928-020-0397-9), *Nature Electronics* __3__, 225-232 (2020)  (*__featured as cover article__*)
 34. N. Upadhyay, W. Sun, __P. Lin__, S. Joshi, R. Midya, X. Zhang, Z. Wang, H. Jiang, J. H. Yoon, M. Rao, M. Chi, Q. Xia and J. J. Yang, ["A Memristor with low switching current and voltage for 1S1R integration and array operation"](https://onlinelibrary.wiley.com/doi/abs/10.1002/aelm.201901411), *Advanced Electronic Materials*, 1901411 (2020)
